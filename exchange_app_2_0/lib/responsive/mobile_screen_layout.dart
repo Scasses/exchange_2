@@ -1,10 +1,10 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:exchange/screens/explore_page.dart';
-import 'package:exchange/screens/home_page.dart';
-import 'package:exchange/screens/news_headlines_page.dart';
-import 'package:exchange/screens/opposing_views_page.dart';
-import 'package:exchange/screens/profile_page.dart';
-import 'package:exchange/screens/trending_page.dart';
+// import 'package:exchange/screens/explore_page.dart';
+// import 'package:exchange/screens/home_page.dart';
+// import 'package:exchange/screens/news_headlines_page.dart';
+// import 'package:exchange/screens/opposing_views_page.dart';
+// import 'package:exchange/screens/profile_page.dart';
+// import 'package:exchange/screens/trending_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import '../utilities/utils.dart';

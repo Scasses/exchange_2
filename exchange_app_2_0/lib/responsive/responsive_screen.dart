@@ -1,7 +1,10 @@
-import 'package:exchange/providers/user_provider.dart';
+// import 'package:exchange/providers/user_provider.dart';
 import 'package:flutter/material.dart';
-import '../resources/constants.dart';
-import 'package:provider/provider.dart';
+
+import '../constants.dart';
+// import '../constants.dart';
+// import '../resources/constants.dart';
+// import 'package:provider/provider.dart';
 
 
 
